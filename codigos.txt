@@ -1,0 +1,12 @@
+Para subir o bajar en direcctorios desde la terminal usamos <cd>
+
+	ej. c:\micarpeta y escribo cd..   paso al nivel c:\
+
+Para cambiar de unidad de disco, simplemente copiamos: <letra>:
+
+	ej. si estoy en c:\micarpeta y queiro pasar al disco e, escribo: e:
+
+
+Para crear un directorio, simple,mente escribimos <mkdir> nombredeldirectorio
+
+	ej. Si quiero crear el directorio llamado MiDir, simplemente copio: mkdir Midir
